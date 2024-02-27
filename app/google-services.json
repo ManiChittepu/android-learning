@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675533335760",
+    "project_id": "pushn-a9af5",
+    "storage_bucket": "pushn-a9af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675533335760:android:7ed954d078d68c209542d5",
+        "android_client_info": {
+          "package_name": "com.example.pushn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVoSZXipsqGFR7PRuashxQiHX-XRaX1FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
